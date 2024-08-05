@@ -1,0 +1,46 @@
+.content p{
+    width: auto !important;
+  }
+  .html, body{
+    padding:  0 0 0 0 ;
+  }
+  .css-1ex1afd-MuiTableCell-root{
+    border-right: 0.1px solid rgb(221, 212, 212);
+  }
+  .instruction{
+  width: fit-content !important;
+  height: fit-content !important;
+  text-align: justify;
+  background-color: white;
+  }
+  .popup-content
+  {
+    width: 600px ;
+    height: fit-content !important;
+    /* background-color:thistle; */
+    font-size: 14px;
+    font-weight: 430;
+    padding: 3 !important;
+    border-color: black;
+    border-width: 0.2rem;
+  }
+
+
+  thead
+  {
+    position: sticky;
+    inset-block-start: 0;
+  }
+  tbody, td, tfoot, th, thead, tr {
+    border-color: inherit;
+    border-style: solid;
+   
+    z-index: 5;
+    white-space: nowrap !important;
+}
+/* button:disabled {
+  color: blue !important;
+} */
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper{
+  margin-left: -100px ;
+}

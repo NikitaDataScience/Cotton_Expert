@@ -1,0 +1,8 @@
+.ag-cell{
+    overflow-x: auto !important;
+    text-align: justify !important;
+    text-overflow: inherit;
+}
+td,th{
+    width: fit-content !important;
+}

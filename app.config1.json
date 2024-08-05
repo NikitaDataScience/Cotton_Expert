@@ -1,0 +1,10 @@
+{
+  apps : [
+    {
+      name      : "dm-qc-react",
+      script    : "npx",
+      interpreter: "none",
+      args: "serve -s build -p 8070"
+    }
+  ]
+}

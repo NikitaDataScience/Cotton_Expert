@@ -1,0 +1,26 @@
+.header{ background: #2a6496;color: #fff;height: 55px !important;}
+.container{ max-width: 10px; margin: 0 auto;}
+ul, li { list-style: none; margin: 0; padding: 0}
+  .cursor { cursor: pointer;}
+  html, body{ margin: 0; padding: 0 0 0px 0;}
+  .container{ max-width: 100%; margin: 0 auto;}
+  .header{ background: #2a6496;padding: 14px 0px !important;color: #fff;}
+  .clear{ display: block; clear: both;}
+  .logo{margin-left: 100; }
+  .logo a{ font-size: 18px; margin: 0; color: #fff;}
+  .navbar{ float: right;}
+  .navbar ul li { display: inline-block; margin: 0 8px;} 
+  .navbar ul li a{ padding: 5px; color: #fff; border-radius: 5px;}
+  .navbar ul li a:hover, .navbar ul li a.active{  color: white; }
+  
+  /* .col-6{ width: 50%; padding: 0 15px; box-sizing: border-box; float: left;} */
+  
+
+  
+  .live{
+    /* color: #fff !important; */
+    text-decoration: underline;
+  }
+  /* .navbar ul li a:hover, .navbar ul li a.active{
+  font-size: 18px; 
+  } */

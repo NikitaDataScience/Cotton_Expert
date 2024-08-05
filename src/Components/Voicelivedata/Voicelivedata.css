@@ -1,0 +1,39 @@
+/* .table{
+    width: 470px !important;
+} */
+.css-y8ay40-MuiTableCell-root{
+    color: white;
+}
+
+.content p{
+    width: auto !important;
+  }
+  .html, body{
+    padding:  0 0 0 0 ;
+  }
+
+  th{
+    background-color: #2a6496 !important;
+    font-size: 14 !important;
+    font-weight: 500;
+    text-align: center !important;
+  }
+  td{
+    white-space:normal !important;
+  }
+
+  tr > th{
+    /* white-space: nowrap !important; */
+    top: 0;
+ 
+  }
+
+  thead
+  {
+    position: sticky;
+    inset-block-start: 0;
+  }
+  .css-1ex1afd-MuiTableCell-root {
+    /* border-right: thin !important; */
+    /* width: 500px !important; */
+}

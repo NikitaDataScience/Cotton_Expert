@@ -1,0 +1,113 @@
+th{
+  background-color: #0e7490 !important;
+  color: white !important;
+  font-size: 14 !important;
+  font-weight: 500;
+  text-align: center;
+}
+/* .popup-content{
+  width: 400px !important;
+} */
+
+
+.tabs{
+    padding: 8px !important;
+    font-size: 16px !important;
+    font-weight: 550 !important;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    /* background: url(http://www.shukatsu-note.com/wp-content/uploads/2014/12/computer-564136_1280.jpg) no-repeat; */
+    background-size: cover;
+    height: 100vh;
+    background-color:white !important;
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: Tahoma, Arial, sans-serif !important;
+    color: #0e7490;
+    margin: 80px 0;
+  }
+  
+  .box {
+    width: 40%;
+    margin: 0 auto;
+    background: rgba(255,255,255,0.2);
+    padding: 35px;
+    border: 2px solid #fff;
+    border-radius: 20px/50px;
+    background-clip: padding-box;
+    text-align: center;
+  }
+  
+  .button {
+    font-size: 1em;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.3s ease-out;
+  }
+  .button:hover {
+    background: gray;
+    color: white;
+  }
+  
+  .overlay {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity: 0;
+  }
+  .overlay:target {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  body {
+    margin: 0;
+    font-family:'Courier New', Courier, monospace !important ;
+   
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+ 
+  .content p {
+    width: 22% !important;
+  }
+  .css-78c6dr-MuiToolbar-root-MuiTablePagination-toolbar{
+    margin-left: 25% !important;
+    flex-shrink: 0 !important;
+  }
+  *{
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    
+  }
+  .css-levciy-MuiTablePagination-displayedRows{
+    flex-shrink: 0 !important;
+    -webkit-flex-shrink :0 !important
+  }
+  .popup-content{
+    width: 350px !important;
+    height: 100px !important;
+    font-size: 15px;
+    font-weight: 530;
+    border-color: black;
+    border-width: 0.2rem;
+}
+td,th{
+  border-right-width: thin !important
+}
+/* .css-1t1j96h-MuiPaper-root-MuiDialog-paper{
+  margin-left: -350px !important;
+} */
